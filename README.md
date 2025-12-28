@@ -16,9 +16,13 @@
 
 ---
 
-## 📊 GitHub Language Stats
+## 📊 Languages and Tools I Use
+- JavaScript
+- HTML
+- C++
+- Python
+- Mathematics & Algorithms
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Kumar-1107&layout=compact)
 
 ---
 
