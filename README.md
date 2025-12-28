@@ -1,11 +1,26 @@
-- 👋 Hi, I’m @Sagar-Kumar-1107
-- 👀 I’m interested in programming and mathematics
-- 🌱 I’m currently learning IIT HYDERABAD (mathematics and computing)
-- 📫 How to reach me www.linkedin.com/in/sagar-kumar-694201319
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Sagar Kumar
 
-<!---
-Sagar-Kumar-1107/Sagar-Kumar-1107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in **Programming, Mathematics, and Computer Graphics**
+- 🌱 I’m currently studying **Mathematics and Computing at IIT Hyderabad**
+- 💡 I enjoy building things from scratch and understanding how systems work internally
+- 📫 How to reach me:  
+  **LinkedIn:** https://www.linkedin.com/in/sagar-kumar-694201319
+
+---
+
+## 🛠️ What I Work On
+- Data Structures & Algorithms  
+- Software-based 3D Rendering  
+- Low-level Graphics & Math  
+- Problem Solving & Competitive Programming  
+
+---
+
+## 📊 GitHub Language Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Kumar-1107&layout=compact)
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
+
