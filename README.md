@@ -83,10 +83,9 @@
 </p>
 
 # 📊 GitHub Stats:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sagar-Kumar-1107?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-![](https://nirzak-streak-stats.vercel.app/?user=Sagar-Kumar-1107&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Kumar-1107&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Sagar-Kumar-1107)](https://www.readmecodegen.com/custom-github-card-generator)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Sagar-Kumar-1107&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Sagar-Kumar-1107&cardType=streak)](https://www.readmecodegen.com/custom-github-card-generator)
 
 
 </br></br>
