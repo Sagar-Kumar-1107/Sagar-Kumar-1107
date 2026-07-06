@@ -84,8 +84,6 @@
 
 # 📊 GitHub Stats:
 [![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Sagar-Kumar-1107)](https://www.readmecodegen.com/custom-github-card-generator)
-[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Sagar-Kumar-1107&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
-[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Sagar-Kumar-1107&cardType=streak)](https://www.readmecodegen.com/custom-github-card-generator)
 
 
 </br></br>
